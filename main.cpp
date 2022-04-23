@@ -32,7 +32,7 @@ void studikasus::input()
     cout << endl;
     for (int i = 0; i < jumlahmk; i++)
     {
-        cout << "Mata kuliah    " << i + 1 << " : ";
+        cout << "Mata kuliahh    " << i + 1 << " : ";
         cin >> matkul[i];
         cout << "Banyak SKS       : ";
         cin >> sks[i];
